@@ -1,0 +1,16 @@
+body 
+{
+    color: red;
+}
+
+h2
+{
+    color: black;   
+}
+
+a{
+    font-size: 25px;
+    color: green;
+    text-decoration:underline;
+
+}
